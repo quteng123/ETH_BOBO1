@@ -2,7 +2,7 @@
   "name": "@quteng123/tea_tga",
   "version": "1.0.4",
   "description": "> Package to scrap arstechnica website. Contains header and title.",
-  "main": "tgc.sol",
+  "main": "index.js",
   "type": "module",
   "dependencies": {
     "asynckit": "^0.4.0",
