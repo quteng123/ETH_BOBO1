@@ -2,7 +2,7 @@
   "name": "tea_tga",
   "version": "1.0.3",
   "description": "A mystical package that provides random words of wisdom.",
-  "main": "tea_tga.sol",
+  "main": "tgc.sol",
   "type": "module",
   "homepage": "https://github.com/quteng123/tea_tga#readme",
   "repository": {
